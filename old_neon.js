@@ -1,3 +1,11 @@
+/* -------------------------------------- */
+/* NOTE: I wrote this a few years ago and 
+   It's absolutely horrible code. I don't 
+   Even know how it works anymore, but it 
+   sorta does. Anyway you can try to 
+   understand it                          */
+/* -------------------------------------- */
+
 let program;
 let LCls;
 let LAtr;
